@@ -9,6 +9,9 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
+__pycache__
+.ipynb_checkpoints
+*.ipynb
 dist
 dist-ssr
 *.local
